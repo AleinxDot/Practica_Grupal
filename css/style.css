@@ -1,11 +1,3 @@
-#div-estudiante {
-    background-color: aqua;
-}
-
-#div-escuela {
-    background-color: aqua;
-}
-
-#div-facultades {
-    background-color: aqua;
+#div-estudiante, #div-escuela, #div-facultades {
+    background-color: whitesmoke;
 }
